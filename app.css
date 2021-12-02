@@ -1,0 +1,45 @@
+h1{
+    color: blue;
+}
+h2{
+    color: red;
+}
+
+.titles{
+    font-size: x-large;
+}
+
+.main{
+    font-weight: 200;
+}
+
+#crocs{
+    float:right;
+}
+#cat{
+    width: 400px;
+    height: auto;
+}
+
+.centerer {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  header{
+    width:100%;
+    height:100px;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+  }
+  section{
+      color: white;
+      font-size: x-large;
+      text-align: center;
+    
+  }
